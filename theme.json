@@ -1,0 +1,25 @@
+{
+    "name": "smagenta",
+    "author": "clawyban (ﾉ≧∀≦)ﾉ━━━★",
+    "description": "Recreation of the smagenta theme on Aliucord, originally by scruz#0004",
+    "update_url": "https://raw.githubusercontent.com/user/repo/refs/heads/main/theme.json",
+    "colors": {
+        "ui": {
+			"accent": "#FFE91E63",
+			"selection": "#FFE02A6B",
+			"background": "FF1A1A1A"
+			},
+
+        "text": {
+			"link": "#FFE91E63"
+			},
+			
+        "discord": {
+            "embed_bg": "#2B2D31",
+            "embed_media_bg": "#313338",
+            "reaction_bg": "#404249",
+            "reaction_me_bg": "#FFE91E63",
+            "input_bg": "#202225"
+			},			
+    }
+}
