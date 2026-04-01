@@ -2,7 +2,7 @@
     "name": "smagenta",
     "author": "clawyban (ﾉ≧∀≦)ﾉ━━━★",
     "description": "Recreation of the smagenta theme on Aliucord, originally by scruz#0004",
-    "update_url": "https://raw.githubusercontent.com/user/repo/refs/heads/main/theme.json",
+    "update_url": "https://github.com/clawyban/clawyban-smagenta/tree/d5323b8df9b5b0ce251688422299597a0296d5d1/theme.json",
     "colors": {
         "ui": {
 			"accent": "#FFE91E63",
